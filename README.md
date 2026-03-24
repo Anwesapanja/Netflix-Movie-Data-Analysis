@@ -116,7 +116,11 @@ Average IMDb rating
 Total budget & revenue
 Seasons & episodes
 ## Dashboard Preview
-<p align="center"> <img src="Dashboard/Screenshot%202026-02-24%20011043.png" width="800"/> </p>
+## 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard/Screenshot%202026-02-24%20011043.png" alt="Dashboard" width="800"/>
+</p>
 ## Tools Used
 Microsoft Excel
 Google Sheets
