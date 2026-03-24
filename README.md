@@ -118,9 +118,8 @@ Seasons & episodes
 ## Dashboard Preview
 ## 🖼️ Dashboard Preview
 
-<p align="center">
-  <img src="Dashboard/Screenshot%202026-02-24%20011043.png" alt="Dashboard" width="800"/>
-</p>
+![Dashboard](Dashboard/Screenshot%202026-03-23%20023541.png)
+
 ## Tools Used
 Microsoft Excel
 Google Sheets
