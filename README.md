@@ -62,59 +62,59 @@ Build an interactive dashboard for insights
 | content_warning     | Boolean   | Indicates content warning                  |
 
 ## Data Summary
-Total Records: 1,040
-Total Columns: 18
-Missing Values: 0
+- Total Records: 1,040
+- Total Columns: 18
+- Missing Values: 0
 ## Time Range
-Release Year: 1953 – 2024
-Added to Platform: 2020 – 2025
+- Release Year: 1953 – 2024
+- Added to Platform: 2020 – 2025
 ## Ratings Overview
-Min: 0.5
-Max: 10.0
-Avg: 6.27
+- Min: 0.5
+- Max: 10.0
+- Avg: 6.27
 ## Content Insights
-Netflix Originals: 318 (30.58%)
-Content Warning: 201 (19.33%)
+- Netflix Originals: 318 (30.58%)
+- Content Warning: 201 (19.33%)
 ## Financial Overview
-Total Budget: 11.56 Billion
-Total Revenue: 67.19 Billion
-ROI Ratio: 5.81x
+- Total Budget: 11.56 Billion
+- Total Revenue: 67.19 Billion
+- ROI Ratio: 5.81x
 ## Content Distribution
-Movies: 458 (44.04%)
-TV Series: 267 (25.67%)
-Documentaries: 142 (13.65%)
-Stand-up Comedy: 119 (11.44%)
-Limited Series: 54 (5.19%)
+- Movies: 458 (44.04%)
+- TV Series: 267 (25.67%)
+- Documentaries: 142 (13.65%)
+- Stand-up Comedy: 119 (11.44%)
+- Limited Series: 54 (5.19%)
 ## Top Languages
-English (608)
-Spanish (103)
-French (67)
-Hindi (60)
-Japanese (55)
+- English (608)
+- Spanish (103)
+- French (67)
+- Hindi (60)
+- Japanese (55)
 ## Top Countries
-USA (543)
-South Korea (118)
-Canada (102)
-UK (88)
-Japan (57)
+- USA (543)
+- South Korea (118)
+- Canada (102)
+- UK (88)
+- Japan (57)
 ## Data Cleaning Notes
-movie_id split into movie + id columns
-title removed in cleaned dataset
-Dates stored in Excel serial format
+- movie_id split into movie + id columns
+- title removed in cleaned dataset
+- Dates stored in Excel serial format
 ## Data Quality Checks
-Duplicate IDs: 40
-Duplicate Titles: 262
-Series-related fields are mostly zero for non-series records
+- Duplicate IDs: 40
+- Duplicate Titles: 262
+- Series-related fields are mostly zero for non-series records
 ## Analytics & Dashboard
-Pivot Analysis Includes:
-Content type-wise analysis
-Country-wise financial analysis
-Metrics Used:
-Content count
-Average duration
-Average IMDb rating
-Total budget & revenue
-Seasons & episodes
+- Pivot Analysis Includes:
+- Content type-wise analysis
+- Country-wise financial analysis
+- Metrics Used:
+- Content count
+- Average duration
+- Average IMDb rating
+- Total budget & revenue
+- Seasons & episodes
 
 ## Dashboard Preview
 
@@ -122,26 +122,26 @@ Seasons & episodes
 
 ## Tools Used
 
-Microsoft Excel
-Google Sheets
-Pivot Tables
-Pivot Charts
-Dashboard Design (KPI Cards)
+- Microsoft Excel
+- Google Sheets
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design (KPI Cards)
 
 ## Conclusion
 
 This project demonstrates a complete data analytics workflow from raw dataset to dashboard visualization.
 
 ## Key Insights:
-Movies contribute the highest share and revenue
-Strong ROI (~5.8x) across the dataset
-USA dominates in investment and returns
-Content type comparison helps identify performance patterns
+- Movies contribute the highest share and revenue
+- Strong ROI (~5.8x) across the dataset
+- USA dominates in investment and returns
+- Content type comparison helps identify performance patterns
 
 ## Future Enhancements
-Add time-based trend analysis
-Compare Netflix Originals vs Non-Originals
-Create a separate data dictionary file
-Implement data validation and duplicate checks
-content_warning	Boolean	Content warning
+- Add time-based trend analysis
+- Compare Netflix Originals vs Non-Originals
+- Create a separate data dictionary file
+- Implement data validation and duplicate checks
+- Content_warning	Boolean	Content warning
 
